@@ -1,0 +1,8 @@
+{
+  "name": "MediAccess",
+  "description": "A biometric healthcare authentication platform (Face & Fingerprint) dashboard demonstrating security, compliance, and financial projections for MediAccess.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
